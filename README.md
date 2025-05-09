@@ -1,10 +1,9 @@
-# SWFSC-Template
+# <i>ObsCovgTools</i>: Assessing observer coverage needed to document and estimate rare event bycatch
+`obscov-2020-pub` provides the final R scripts used for the publication
 
-The README provides a description of the repository. The README file will vary greatly depending on the repo contents. 
+Curtis, K.A., Carretta, J.V. 2020. <i>ObsCovgTools</i>: Assessing observer coverage needed to document and estimate rare event bycatch. Fisheries Research 225, 105493. https://doi.org/10.1016/j.fishres.2020.105493
 
-## License
-
-User task: Choose an open source license, depending on the repo contents and the [latest NMFS guidance](https://nmfs-opensci.github.io/GitHub-Guide/#sec-license). You do not need to keep this 'License' section in your repo readme.
+Data for this analysis are maintained by the NOAA Fisheries West Coast Region and are confidential.
 
 ## Disclaimer
 
