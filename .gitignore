@@ -1,2 +1,9 @@
-# Files/paths/patterns for git to ignore 
-# https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+.DS_Store
+/.quarto/
+/_site/
