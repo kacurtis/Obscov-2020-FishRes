@@ -1,5 +1,5 @@
 # <i>ObsCovgTools</i>: Assessing observer coverage needed to document and estimate rare event bycatch
-`obscov-2020-pub` provides the final R scripts used for the publication
+This repository provides the final R scripts used for the publication
 
 Curtis, K.A., Carretta, J.V. 2020. <i>ObsCovgTools</i>: Assessing observer coverage needed to document and estimate rare event bycatch. Fisheries Research 225, 105493. https://doi.org/10.1016/j.fishres.2020.105493
 
